@@ -1,0 +1,15 @@
+{
+  "name": "ibiscash",
+  "version": "1.0.0",
+  "description": "ibiscashapp",
+  "main": "script.js",
+  "scripts": {
+    "test": "script.js"
+  },
+  "keywords": [
+    "ibis",
+    "cash"
+  ],
+  "author": "Skywalkingzulu1",
+  "license": "ISC"
+}
