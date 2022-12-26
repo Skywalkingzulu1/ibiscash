@@ -55,5 +55,5 @@ db.put('Reward1', username, function(err) {
     res.sendFile(path.join(__dirname, '/bindex.html'));
 })
 
-app.listen(3000);
+app.listen(8080);
 console.log('server is running on port 3000');
